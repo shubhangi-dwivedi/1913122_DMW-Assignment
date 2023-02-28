@@ -11,6 +11,7 @@ If an itemset is infrequent, then all of its supersets must also be infrequent
 
 # Advantages of Apriori Algorithm
 It is used to calculate large itemsets.
+<br>
 Simple to understand and apply.
 
 # For the given dataset 
