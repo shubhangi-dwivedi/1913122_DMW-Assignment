@@ -17,4 +17,5 @@ Simple to understand and apply.
 Final Frequent Set :
 [('p', 'q', 't', 'u'), ('r', 's', 't', 'u')]
 Here, the minimum support given is 60% (given as input) 
+<br>
 It can be changed as per the requirements.
