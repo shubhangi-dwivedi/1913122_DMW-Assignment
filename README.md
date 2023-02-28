@@ -1,4 +1,6 @@
 # 1913122_DMW-Assignment
+Name -Shubhangi Dwivedi
+Roll no. - 1913122
 
 # APRIORI ALGORITHM
 Apriori algorithm refers to the algorithm which is used to calculate the association rules between objects. It means how two or more objects are related to one another. In other words, we can say that the apriori algorithm is an association rule leaning that analyzes that people who bought product A also bought product B.
